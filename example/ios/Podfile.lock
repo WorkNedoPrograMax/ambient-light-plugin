@@ -1,0 +1,28 @@
+PODS:
+  - ambient_light (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - ambient_light (from `.symlinks/plugins/ambient_light/ios`)
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+EXTERNAL SOURCES:
+  ambient_light:
+    :path: ".symlinks/plugins/ambient_light/ios"
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  ambient_light: 682fd9188b58a43c4d77618494de5e9b2a081b58
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: d228f00655b455eeedb237cae2a3a251702eaa8f
+
+PODFILE CHECKSUM: 1b50a4280f44a231b37f858aebc2a001225decec
+
+COCOAPODS: 1.15.2
