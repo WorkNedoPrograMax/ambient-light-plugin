@@ -42,8 +42,7 @@ flutter:
       android:
         package: com.aliyou.ambient_light
         pluginClass: AmbientLightPlugin
-      ios:
-        pluginClass: AmbientLightPlugin
+
       linux:
         pluginClass: AmbientLightPlugin
       macos:
